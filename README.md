@@ -2,6 +2,7 @@
 
 Бизнес-процесс:
 
-![photo_2024-04-17_18-45-05](https://github.com/charwety/quality_monitoring/assets/165644160/0f74c870-cdef-4659-a282-6a8f0f854be5)
+![photo_2024-04-17_18-45-05](https://github.com/charwety/quality_monitoring/assets/165644160/2752b9e4-6f45-489b-beb1-460f9caae745)
+
 
 
