@@ -2,4 +2,5 @@
 
 Бизнес-процесс:
 
-![image](https://github.com/Veronikamast/quality_monitoring/assets/165644160/696209c4-ff94-46b7-b77e-25d1013e9cfa)
+![image](https://github.com/charwety/quality_monitoring/assets/165644160/2bf79db4-8db5-4795-b2e4-5bd78a1c5cf6)
+
