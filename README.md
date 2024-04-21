@@ -11,4 +11,9 @@
 5. Система анализирует введённые данные с установленными стандартами качества и проводит сравнение.
 6. На экране появляется результат проверки с указанием соответсевует и удобрение стандартам качества или нет.
 
+Предположительный WireFrame будущей системы:
+https://www.figma.com/file/FJZYyFztC1IcROBG9bxmX6/Untitled?type=design&node-id=0-1&mode=design&t=c40zy4sjyIromFqV-0
+
+![photo_2024-04-21_12-10-27](https://github.com/charwety/quality_monitoring/assets/165644160/307646d6-2b63-463d-96bb-1a051e6932bb)
+
 
