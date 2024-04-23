@@ -7,5 +7,5 @@
 3. Система анализирует то, что выбрал пользователь и предлагает ему список рекомендуемых удобрений.
 
 Модель базы данных:
-![image](https://github.com/charwety/quality_monitoring/assets/165644160/8a880207-f24e-445e-a970-b2b569718beb)
 
+![image](https://github.com/charwety/quality_monitoring/assets/165644160/6fe691aa-22a2-43db-a102-fbfe0018a716)
